@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\HP\\Documents\\GitHub\\locator\\build\\image_picker_android\\intermediates\\merged_res\\release\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\ba857edfc41969ece2fc6e7caddd07c2\\transformed\\core-1.8.0\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\GitHub\\locator\\build\\image_picker_android\\intermediates\\merged_res\\release\\drawable-xhdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\ba857edfc41969ece2fc6e7caddd07c2\\transformed\\core-1.8.0\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\GitHub\\locator\\build\\image_picker_android\\intermediates\\merged_res\\release\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\ba857edfc41969ece2fc6e7caddd07c2\\transformed\\core-1.8.0\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\GitHub\\locator\\build\\image_picker_android\\intermediates\\merged_res\\release\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\ba857edfc41969ece2fc6e7caddd07c2\\transformed\\core-1.8.0\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\GitHub\\locator\\build\\image_picker_android\\intermediates\\merged_res\\release\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\ba857edfc41969ece2fc6e7caddd07c2\\transformed\\core-1.8.0\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    }
+]

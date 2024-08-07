@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\HP\\Documents\\GitHub\\locator\\build\\geolocator_android\\intermediates\\merged_res\\release\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\d2594a21e4cb8fd70081ea5a633df054\\transformed\\core-1.9.0\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\GitHub\\locator\\build\\geolocator_android\\intermediates\\merged_res\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\d2594a21e4cb8fd70081ea5a633df054\\transformed\\core-1.9.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\GitHub\\locator\\build\\geolocator_android\\intermediates\\merged_res\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\d2594a21e4cb8fd70081ea5a633df054\\transformed\\core-1.9.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\GitHub\\locator\\build\\geolocator_android\\intermediates\\merged_res\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\d2594a21e4cb8fd70081ea5a633df054\\transformed\\core-1.9.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]
